@@ -1,5 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+File-TO-Be-Excluded.txt
+Folder-To-Be-Excluded/*.*
 
 ### STS ###
 .apt_generated
