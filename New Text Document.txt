@@ -1,1 +1,3 @@
 Change in local repository.
+
+Change in Staged Area.
