@@ -2,3 +2,5 @@ Contents of New File
 
 Changes in feature 1 Branch
 
+
+Changes in feature 2 Branch
