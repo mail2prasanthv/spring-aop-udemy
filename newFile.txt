@@ -1,3 +1,4 @@
 Contents of New File
 
+Changes in feature 1 Branch
 
