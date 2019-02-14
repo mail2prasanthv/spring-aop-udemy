@@ -3,3 +3,5 @@ Change in local repository.
 Change in Staged Area.
 
 Change in Working Directory.
+
+Changes in master Branch
